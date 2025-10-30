@@ -30,5 +30,3 @@ This dashboard highlights both top-performing and underperforming vendors and br
 - **Data Visualization:** Power BI / Matplotlib / Seaborn  
 - **Data Source:** CSV / Excel files containing sales and purchase records  
 - **Tools:** Jupyter Notebook / Power BI Desktop  
-
-## 📂 Project Structure
